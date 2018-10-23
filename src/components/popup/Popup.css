@@ -1,0 +1,32 @@
+.main-popup{
+	height: auto;
+	width:300px;
+	border:1px solid black;
+	/*background-image: linear-gradient(blue);*/
+	background-color: blue;
+	
+}
+
+
+.title-container{
+	font-family: sans-serif;
+	font-size: 20px;
+	color:white;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.icons{
+	background-color: black;
+	font-size: 15px;
+}
+
+.button-container{
+  width: 40px;
+  height: 40px;
+  padding:0;
+  border-radius: 50%;
+  font-size: 20px;
+  /*background-image: linear-gradient(orange,violet);*/
+  
+}
